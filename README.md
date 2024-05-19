@@ -4,6 +4,8 @@
 
 This project is the backend implementation of a social media platform, fulfilling all the requirements outlined in the provided task. It offers functionalities such as user authentication, profile management, content creation, following users, viewing feeds, liking posts, commenting on posts, and more.
 
+Project Code - https://drive.google.com/drive/folders/1DzC3iPyrbU62kcpcTp5vqFDnX2-0oJ9w
+
 ## Technologies Used
 
 - Node.js
@@ -65,9 +67,23 @@ This project is the backend implementation of a social media platform, fulfillin
 
 - GraphQL Endpoint: Implementation of all APIs as a GraphQL endpoint for enhanced query flexibility and efficiency.
 
+![image](https://github.com/aadarsh-nagrath/assignment/assets/92307537/7e78c8f7-afd9-435a-a8da-f758281b583b)
+
+![image](https://github.com/aadarsh-nagrath/assignment/assets/92307537/419f0bd7-822a-4a31-811b-0f34c145f285)
+
 ## Database Design
 
-The database schema is designed to efficiently store user profiles, posts, comments, likes, and user relationships. I used Amazon RDS as a SQL Database  and created required tables in mysql workBench - 
+The database schema is designed to efficiently store user profiles, posts, comments, likes, and user relationships. I used Amazon RDS as a SQL Database  and created required tables in mysql workbench - 
+Amazon RDS setup - 
+![image](https://github.com/aadarsh-nagrath/assignment/assets/92307537/be0e7863-4a29-4faa-9ff7-87470cd7302e)
+.env - 
+```
+RDS_HOST= aws rds endpoint
+RDS_USER=social
+RDS_PASSWORD=password
+RDS_NAME=social
+RDS_PORT=3306
+```
 ![image](https://github.com/aadarsh-nagrath/assignment/assets/92307537/539dc075-a54e-4dc5-9c11-324652e38a73)
 
 
