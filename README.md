@@ -68,8 +68,7 @@ This project is the backend implementation of a social media platform, fulfillin
 ## Database Design
 
 The database schema is designed to efficiently store user profiles, posts, comments, likes, and user relationships. I used Amazon RDS as a SQL Database  and created required tables in mysql workBench - 
-
-
+![image](https://github.com/aadarsh-nagrath/assignment/assets/92307537/539dc075-a54e-4dc5-9c11-324652e38a73)
 
 
 ## Conclusion
