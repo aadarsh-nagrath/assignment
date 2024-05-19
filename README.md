@@ -14,6 +14,7 @@ Project Code - https://drive.google.com/drive/folders/1DzC3iPyrbU62kcpcTp5vqFDnX
 - MySQL - Amazon RDS
 - JWT (JSON Web Tokens)
 
+### Note while installing use "npm i --force incase of dependency conflict"
 ## Features
 
 ### Authentication
